@@ -11,7 +11,16 @@ export default function App() {
         <Dictionary />
       </main>
       <footer className="App-footer">
-        <small>Coded by Brenna Williamson</small>
+        <small>
+          <a
+            href="https://github.com/brennawilliamson/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Open source code
+          </a>{" "}
+          by Brenna Williamson
+        </small>
       </footer>
     </div>
   );
