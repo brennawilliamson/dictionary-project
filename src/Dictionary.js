@@ -60,7 +60,7 @@ export default function Dictionary(props) {
             />
           </form>
           <div className="hint">
-            suggested words: sunset, wine, yoga, forest...
+            Get definitions, examples, synonyms and more.
           </div>
         </section>
 
